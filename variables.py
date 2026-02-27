@@ -42,3 +42,6 @@ if for_sale:
     print(f'Hi, the price of the TV is ${tv_price}.')
 else:
     print(f'Im sorry, the tv has been sold already')
+
+
+
