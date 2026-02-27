@@ -4,6 +4,12 @@
 first_name = "Andres"
 favorite_food = "pizza"
 
+print(first_name)
+
+name = input("Please enter your name: ")
+
+print(f'Hi {name}!')
+
 print(f'Hi {first_name}, your favorite food is {favorite_food}.')
 
 #Integers
